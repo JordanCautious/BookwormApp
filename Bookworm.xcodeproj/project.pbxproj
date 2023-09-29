@@ -63,8 +63,8 @@
 		ECAA2D9F2AB83FA500EED92A /* Bookworm */ = {
 			isa = PBXGroup;
 			children = (
-				ECA1F4B22AB8E252003A0FAE /* AddBookView.swift */,
 				ECAA2DA02AB83FA500EED92A /* BookwormApp.swift */,
+				ECA1F4B22AB8E252003A0FAE /* AddBookView.swift */,
 				ECAA2DA22AB83FA500EED92A /* ContentView.swift */,
 				ECAA2DB12AB840E200EED92A /* DataController.swift */,
 				ECA1F4B82AB8F110003A0FAE /* DetailView.swift */,
